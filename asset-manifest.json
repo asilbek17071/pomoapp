@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/static/css/main.3535b713.css",
+    "main.js": "/static/js/main.45e7bfa6.js",
+    "static/media/Arial-Rounded.eot": "/static/media/Arial-Rounded.f603f87e38a6ce2426c0.eot",
+    "static/media/Arial-Rounded.ttf": "/static/media/Arial-Rounded.11cd318d8c53ad61c4a8.ttf",
+    "static/media/Arial-Rounded.woff": "/static/media/Arial-Rounded.044f09c6eb9dfeee35da.woff",
+    "static/media/brandlogo-white.png": "/static/media/brandlogo-white.a65828010c33cee1edd5.png",
+    "index.html": "/index.html",
+    "main.3535b713.css.map": "/static/css/main.3535b713.css.map",
+    "main.45e7bfa6.js.map": "/static/js/main.45e7bfa6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3535b713.css",
+    "static/js/main.45e7bfa6.js"
+  ]
+}
